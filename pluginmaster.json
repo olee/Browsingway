@@ -1,0 +1,38 @@
+[
+    {
+        "Author": "Styr1x",
+        "Name": "Browsingway-custom-css",
+        "InternalName": "Browsingway",
+        "AssemblyVersion": "1.5.4.0",
+        "Description": "Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.\nUse the settings button below or the '/bw config' command to configure.\nBased on the BrowserHost plugin by ackwell.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/Styr1x/Browsingway",
+        "Tags": [
+          "framework",
+          "browser",
+          "inlay",
+          "overlay",
+          "chromium",
+          "act",
+          "youtube",
+          "website",
+          "video"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "CanUnloadAsync": false,
+        "LoadPriority": 0,
+        "Punchline": "Browser overlays rendered in-game.",
+        "Changelog": "- Added custom css support",
+        "AcceptsFeedback": true,
+        "IconUrl": "https://raw.githubusercontent.com/olee/Browsingway/main/Browsingway/images/icon.png",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadLinkInstall": "https://github.com/olee/Browsingway/releases/download/release/latest.zip",
+        "DownloadLinkTesting": "https://github.com/olee/Browsingway/releases/download/release/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/olee/Browsingway/releases/download/release/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1657056932"
+    }
+]
